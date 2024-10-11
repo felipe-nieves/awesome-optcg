@@ -17,7 +17,7 @@ Awesome list of One Piece Trading Card Game resources
 
 [Official Rule Manual](https://en.onepiece-cardgame.com/pdf/rule_manual.pdf?20230623)
 
-[Rule Overview Sheet (Found on the back of starter deck playmats)](https://en.onepiece-cardgame.com/pdf/rule_overview_sheet_en.pdf?20221223)
+[Rule Overview Sheet (found on the back of starter deck playmats)](https://en.onepiece-cardgame.com/pdf/rule_overview_sheet_en.pdf?20221223)
 
 ### One Piece Card Game Teaching App
 
