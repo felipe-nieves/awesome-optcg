@@ -3,7 +3,7 @@ Awesome list of One Piece Trading Card Game resources
 - [Rules](#Rules)
 - [One Piece Card Game Teaching App](#one-piece-card-game-teaching-app)
 - [OPTCG Sim](#optcg-sim)
-- [Bandai TCG+](#bandai-tcg+)
+- [Bandai TCG+](#bandai-tcg)
 - [Videos](#videos)
 - [Deck Meta](#deck-meta)
 - [Stores](#stores)
