@@ -34,6 +34,7 @@ Awesome list of One Piece Trading Card Game resources
 ### Bandai TCG+
 
 [iOS](https://apps.apple.com/us/app/bandai-tcg/id1599299476)
+
 [Android](https://play.google.com/store/apps/details?id=com.bandai.bandaitcgplus&hl=en_US)
 
 ### Videos
