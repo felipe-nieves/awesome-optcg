@@ -12,6 +12,7 @@ Awesome list of One Piece Trading Card Game resources
 - [Deck Meta](#deck-meta)
 - [Stores](#stores)
 - [Reddit](#reddit)
+- [Twitter](#twitter)
 
 ### Rules
 
@@ -82,3 +83,17 @@ Awesome list of One Piece Trading Card Game resources
 ### Reddit 
 
 [r/OnePieceTCG](https://www.reddit.com/r/OnePieceTCG/)
+
+### Twitter
+
+#### Official
+
+[English](https://x.com/ONEPIECE_tcg_EN)
+
+[Japanese](https://x.com/ONEPIECE_tcg)
+
+#### Informational
+
+[PopChaserz](https://x.com/PopChazers)
+
+[AndyCollectz](https://x.com/AndyCollectz)
