@@ -63,6 +63,22 @@ Awesome list of One Piece Trading Card Game resources
 
 [Cool Stuff Inc.](https://www.coolstuffinc.com/page/7042/)
 
+[Barnes and Noble](https://www.barnesandnoble.com/)
+
+[Hot Topic](https://www.hottopic.com/)
+
+[Walmart](https://walmart.com/)
+
+[Target](https://target.com/)
+
+[Five Below](https://www.fivebelow.com/)
+
+[GameStop](https://www.gamestop.com/)
+
+[Box Lunch](https://www.boxlunch.com/)
+
+[Walgreens](https://www.walgreens.com/)
+
 ### Reddit 
 
 [r/OnePieceTCG](https://www.reddit.com/r/OnePieceTCG/)
