@@ -61,42 +61,42 @@ Used to register for official events.
 #### Blue: **Defense and Board Control**
 - **Strengths**: Bouncing (returning cards to hand or deck), alternate win conditions.
 - **Playstyle**: Control-heavy, thrives on disrupting opponents' setups.
-- **Key Leaders**: Crocodile, Doflamingo.
+- [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ablue)
 
 ---
 
 #### Green: **Tapping and Ramping**
 - **Strengths**: Tapping (resting opponent cards) and resource ramping for board dominance.
 - **Playstyle**: Strategic setups, excels at efficient resource use.
-- **Key Leaders**: Eustass Kid, Yamato.
+- [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Agreen) 
 
 ---
 
 #### Yellow: **Life Manipulation and Attrition**
 - **Strengths**: Trigger effects, life manipulation for balance control.
 - **Playstyle**: Hybrid of board control and attrition.
-- **Key Leaders**: Big Mom.
+- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ayellow)
 
 ---
 
 #### Purple: **DON!! Manipulation**
 - **Strengths**: Ramping DON!! resources, midrange flexibility.
 - **Playstyle**: Explosive mid-game strategies and versatility.
-- **Key Leaders**: Kaido, King.
+- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Apurple)
 
 ---
 
 #### Red: **Aggressive Tempo (UNGA BUNGA)**
 - **Strengths**: Rush, power manipulation, rapid KOs.
 - **Playstyle**: Aggressive and fast-paced.
-- **Key Leaders**: Monkey D. Luffy, Zoro.
+- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ared)
 
 ---
 
 #### Black: **Cost Manipulation and Stalling**
 - **Strengths**: Stalling tactics and cost reduction.
 - **Playstyle**: Defensive midrange with strong control elements.
-- **Key Leaders**: Sakazuki, Kuzan.
+- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ablack)
 
 ---
 
