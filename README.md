@@ -75,28 +75,28 @@ Used to register for official events.
 #### Yellow: **Life Manipulation and Attrition**
 - **Strengths**: Trigger effects, life manipulation for balance control.
 - **Playstyle**: Hybrid of board control and attrition.
-- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ayellow)
+- [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ayellow)
 
 ---
 
 #### Purple: **DON!! Manipulation**
 - **Strengths**: Ramping DON!! resources, midrange flexibility.
 - **Playstyle**: Explosive mid-game strategies and versatility.
-- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Apurple)
+- [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Apurple)
 
 ---
 
 #### Red: **Aggressive Tempo (UNGA BUNGA)**
 - **Strengths**: Rush, power manipulation, rapid KOs.
 - **Playstyle**: Aggressive and fast-paced.
-- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ared)
+- [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ared)
 
 ---
 
 #### Black: **Cost Manipulation and Stalling**
 - **Strengths**: Stalling tactics and cost reduction.
 - **Playstyle**: Defensive midrange with strong control elements.
-- - [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ablack)
+- [**Leaders**](https://onepiece.limitlesstcg.com/cards/?q=category%3Aleader%20color%3Ablack)
 
 ---
 
