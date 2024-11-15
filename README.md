@@ -4,23 +4,27 @@ Awesome list of One Piece Trading Card Game resources
 
 ## Table of Contents
 
-- [Rules](#Rules)
+- [Rules](#rules)
 - [One Piece Card Game Teaching App](#one-piece-card-game-teaching-app)
 - [OPTCG Sim](#optcg-sim)
 - [Bandai TCG+](#bandai-tcg)
 - [Videos](#videos)
+- [Choosing a Deck](#choosing-a-deck)
 - [Deck Meta](#deck-meta)
 - [Stores](#stores)
+- [Card Pricing/Tracking](#card-pricingtracking)
 - [Reddit](#reddit)
 - [Twitter](#twitter)
 
 ### Rules
 
-[Official Rule Manual](https://en.onepiece-cardgame.com/pdf/rule_manual.pdf?20230623)
+[Official Rule Manual](https://en.onepiece-cardgame.com/pdf/rule_manual.pdf) - A summarized set of rules for the game
 
-[Rule Overview Sheet (found on the back of starter deck playmats)](https://en.onepiece-cardgame.com/pdf/rule_overview_sheet_en.pdf?20221223)
+[Rule Overview Sheet](https://en.onepiece-cardgame.com/pdf/rule_overview_sheet_en.pdf) - Found on the back of starter deck playmats
 
 ### One Piece Card Game Teaching App
+
+Bandai's official tutorial app to teach you the basic rules of the game.
 
 [iOS](https://apps.apple.com/us/app/one-piece-cardgame-teaching/id1631528594)
 
@@ -28,11 +32,15 @@ Awesome list of One Piece Trading Card Game resources
 
 ### OPTCG Sim
 
+A simulator that lets you build decks and play online with others.
+
 [Discord](https://discord.gg/optcgcommunity)
 
 [Download Links](https://discord.com/channels/950260529946050610/1276457238805876777)
 
 ### Bandai TCG+
+
+Used to register for official events.
 
 [iOS](https://apps.apple.com/us/app/bandai-tcg/id1599299476)
 
@@ -46,21 +54,87 @@ Awesome list of One Piece Trading Card Game resources
 
 [How to play One Piece TCG for absolute beginners](https://www.youtube.com/watch?v=DwY9TV5WfZY)
 
+### Choosing a Deck
+
+---
+
+#### Blue: **Defense and Board Control**
+- **Strengths**: Bouncing (returning cards to hand or deck), alternate win conditions.
+- **Playstyle**: Control-heavy, thrives on disrupting opponents' setups.
+- **Key Leaders**: Crocodile, Doflamingo.
+
+---
+
+#### Green: **Tapping and Ramping**
+- **Strengths**: Tapping (resting opponent cards) and resource ramping for board dominance.
+- **Playstyle**: Strategic setups, excels at efficient resource use.
+- **Key Leaders**: Eustass Kid, Yamato.
+
+---
+
+#### Yellow: **Life Manipulation and Attrition**
+- **Strengths**: Trigger effects, life manipulation for balance control.
+- **Playstyle**: Hybrid of board control and attrition.
+- **Key Leaders**: Big Mom.
+
+---
+
+#### Purple: **DON!! Manipulation**
+- **Strengths**: Ramping DON!! resources, midrange flexibility.
+- **Playstyle**: Explosive mid-game strategies and versatility.
+- **Key Leaders**: Kaido, King.
+
+---
+
+#### Red: **Aggressive Tempo (UNGA BUNGA)**
+- **Strengths**: Rush, power manipulation, rapid KOs.
+- **Playstyle**: Aggressive and fast-paced.
+- **Key Leaders**: Monkey D. Luffy, Zoro.
+
+---
+
+#### Black: **Cost Manipulation and Stalling**
+- **Strengths**: Stalling tactics and cost reduction.
+- **Playstyle**: Defensive midrange with strong control elements.
+- **Key Leaders**: Sakazuki, Kuzan.
+
+---
+
+#### Steps to Decide
+1. **Pick Your Playstyle**:
+   - Aggressive and fast? Choose **Red**.
+   - Strategic and defensive? Opt for **Blue** or **Black**.
+   - Flexible midrange? Go with **Purple**.
+   - Balanced control and life manipulation? Consider **Yellow**.
+   - Resource-focused board control? Try **Green**.
+
+2. **Consider Meta Matchups**:
+   - Research top-performing decks and analyze their strengths and counters using the resources in [Deck Meta](#deck-meta)
+
+3. **Test Decks**:
+   - Use proxies or online simulators to playtest different archetypes.
+   - Adjust based on your local meta and personal preferences.
+
+4. **Have Fun**:
+   - Play what excites you! Whether it’s your favorite One Piece characters or a unique strategy, enjoyment is key.
+
 ### Deck Meta
 
-[Egman Events](https://egmanevents.com/one-piece)
+[Egman Events](https://egmanevents.com/one-piece) - Made by "The Egman", tracks decklists for most events and the ranked ladder in the [OPTCG Sim](#optcg-sim)
 
-[onepiece.gg](https://onepiece.gg/decks/)
+[onepiece.gg](https://onepiece.gg/decks/) - guides, deck lists, card information, and meta analyses
 
-[Limitless TCG](https://onepiece.limitlesstcg.com/decks)
+[Limitless TCG](https://onepiece.limitlesstcg.com/decks) - database of decklists, tournament results, and player rankings
 
-[One Piece Top Decks](https://onepiecetopdecks.com/)
+[One Piece Top Decks](https://onepiecetopdecks.com/) -  card database, decklists, articles, news
 
 ### Stores
 
 [Geek'd](https://geekdorlando.com/about/)
 
 [TCG Player](https://www.tcgplayer.com/search/one-piece-card-game/product?productLineName=one-piece-card-game&page=1&view=grid)
+
+[PlayPath - Gaming Store Database](https://docs.google.com/spreadsheets/d/1m0s0KGaDOSBi5JbITbFI1hhSs5UmvvupUjqzWaQzzsc)
 
 [Cool Stuff Inc.](https://www.coolstuffinc.com/page/7042/)
 
@@ -79,6 +153,14 @@ Awesome list of One Piece Trading Card Game resources
 [Box Lunch](https://www.boxlunch.com/)
 
 [Walgreens](https://www.walgreens.com/)
+
+### Card Pricing/Tracking
+
+[Collectr](https://app.getcollectr.com/) - Card database, tracker, and pricing
+
+[TCG Player](https://www.tcgplayer.com/search/one-piece-card-game/product?productLineName=one-piece-card-game&page=1&view=grid) - Search cards by name
+
+[Limitless TCG](https://onepiece.limitlesstcg.com/) - Search cards by number 
 
 ### Reddit 
 
