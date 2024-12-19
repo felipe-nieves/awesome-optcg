@@ -15,6 +15,7 @@ Awesome list of One Piece Trading Card Game resources
 - [Card Pricing/Tracking](#card-pricingtracking)
 - [Reddit](#reddit)
 - [Twitter](#twitter)
+- [Customs](#customs)
 
 ### Rules
 
@@ -179,3 +180,7 @@ Used to register for official events.
 [PopChaserz](https://x.com/PopChazers)
 
 [AndyCollectz](https://x.com/AndyCollectz)
+
+### Customs
+
+[Templates](https://drive.google.com/drive/folders/1fSakxU-WHw6qGHlbou6eyU7MRa2d087d) - Templates for Leaders/DON/Playmats
