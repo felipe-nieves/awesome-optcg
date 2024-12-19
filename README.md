@@ -185,4 +185,5 @@ Used to register for official events.
 
 [Templates](https://drive.google.com/drive/folders/1fSakxU-WHw6qGHlbou6eyU7MRa2d087d) - Templates for Leaders/DON/Playmats
 
-[Tutorial Video](https://www.youtube.com/watch?v=hbpLFaRS1qI) - How to make CUSTOM DON!! and LEADER cards ONE PIECE TCG (FULL TUTORIAL)
+[How to make CUSTOM DON!! and LEADER cards ONE PIECE TCG (FULL TUTORIAL)
+](https://www.youtube.com/watch?v=hbpLFaRS1qI)
