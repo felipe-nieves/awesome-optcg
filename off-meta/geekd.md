@@ -58,10 +58,6 @@ This Leader cannot attack.
 [DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character −1000 power during this turn instead of that Character being K.O.'d.
 ```
 ### 🟡 - Yellow
-#### [Charlotte Linlin (OP03-077)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-077.png)
-```
-[DON!! x2] [When Attacking] ② (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.
-```
 #### [Charlotte Linlin (ST07-001)](https://en.onepiece-cardgame.com/images/cardlist/card/ST07-001.png)
 ```
 [DON!! x2] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: If you have 2 or less Life cards, add up to 1 card from your hand to the top of your Life cards.
@@ -236,6 +232,10 @@ This Leader cannot attack.
 [Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.
 ```
 ### ⚫/🟡 - Black/Yellow
+#### [Charlotte Linlin (OP03-077)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-077.png)
+```
+[DON!! x2] [When Attacking] ② (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.
+```
 #### [Kyros (EB01-040)](https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png)
 ```
 [Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.
