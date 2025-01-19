@@ -79,10 +79,6 @@ This Leader cannot attack.
 ```
 [Activate: Main] ③ (You may rest the specified number of DON!! cards in your cost area.) You may rest 2 of your {East Blue} type Characters: Set this Leader as active, and rest up to 1 of your opponent's Characters with a cost of 5 or less.
 ```
-#### [Arlong (OP03-022)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-022.png)
-```
-[DON!! x2] [When Attacking] ① (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.
-```
 #### [Hody Jones (OP06-020)](https://en.onepiece-cardgame.com/images/cardlist/card/OP06-020.png)
 ```
 [Activate: Main] You may rest this Leader: Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 3 or less. Then, you cannot add Life cards to your hand using your own effects during this turn.
@@ -98,6 +94,11 @@ This Leader cannot attack.
 #### [Uta (ST11-001)](https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001.png)
 ```
 [DON!! x1] [When Attacking] [Once Per Turn] Reveal 1 card from the top of your deck and add up to 1 {FILM} type card to your hand. Then, place the rest at the bottom of your deck.
+```
+#### 🟢/🟡 - Green/Yellow
+#### [Arlong (OP03-022)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-022.png)
+```
+[DON!! x2] [When Attacking] ① (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.
 ```
 ### 🟢/🔵 - Green/Blue
 #### [Sanji (OP02-026)](https://en.onepiece-cardgame.com/images/cardlist/card/OP02-026.png)
