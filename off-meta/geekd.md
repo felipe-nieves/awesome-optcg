@@ -186,7 +186,7 @@ Your Character cards are played rested.
 ```
 [When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.
 ```
-#### [Magellan (OP02-071)]((https://en.onepiece-cardgame.com/images/cardlist/card/OP02-071.png)
+#### [Magellan (OP02-071)](https://en.onepiece-cardgame.com/images/cardlist/card/OP02-071.png)
 ```
 [Your Turn] [Once Per Turn] When a DON!! card on the field is returned to your DON!! deck, this Leader gains +1000 power during this turn.
 ```
