@@ -4,7 +4,66 @@ Printed proxies are allowed, but must be clear and readable for both you and you
 
 ## Allowed Leaders
 
-These are the allowed leaders for off meta at Geek'd.
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start;">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP07-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP04-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP06-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST10-003.png" height="100">
+
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-002.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST07-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP01-031.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-025.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP03-021.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP06-020.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png" height="100">
+
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP03-022.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-026.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP04-019.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP04-020.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP06-021.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-049.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png" height="100">
+
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/P-047.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP04-040.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST13-002.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP01-061.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP01-062.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP04-039.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/P-076.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-072.png" height="100">
+
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-071.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP03-058.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP01-091.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST05-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP04-058.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP03-076.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST06-001.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png" height="100">
+
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/OP03-077.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png" height="100">
+  <img src="https://en.onepiece-cardgame.com/images/events/2024/sealed_battle_vol2/card_01.png" height="100">
+</div>
 
 ## Table of Contents
 
