@@ -71,7 +71,7 @@ This Leader cannot attack.
 [DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.
 ```
 ### 🟢 - Green
-#### [Kozuki Oden (OP03-031)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-031.png)
+#### [Kozuki Oden (OP03-031)](https://en.onepiece-cardgame.com/images/cardlist/card/OP01-031.png)
 ```
 [Activate: Main] [Once Per Turn] You can trash 1 {Land of Wano} type card from your hand: Set up to 2 of your DON!! cards as active.
 ```
