@@ -8,49 +8,49 @@ These are the allowed leaders for off meta at Geek'd.
 
 ## Table of Contents
 
-🔴 - [Red](#---Red)
+🔴 - [Red](#---red)
 
-🔴/🟡 - [Red/Yellow](#---Red/Yellow)
+🔴/🟡 - [Red/Yellow](#---redyellow)
 
-🔴/🟢 - [Red/Green](#---Red/Green)
+🔴/🟢 - [Red/Green](#---redgreen)
 
-🔴/🔵 - [Red/Blue](#---Red/Blue)
+🔴/🔵 - [Red/Blue](#---redblue)
 
-🔴/🟣 - [Red/Purple](#---Red/Purple)
+🔴/🟣 - [Red/Purple](#---redpurple)
 
-🔴/⚫ - [Red/Black](#---Red/Black)
+🔴/⚫ - [Red/Black](#---redblack)
 
-🟡 - [Yellow](#---Yellow)
+🟡 - [Yellow](#---yellow)
 
-🟢 - [Green](#---Green)
+🟢 - [Green](#---green)
 
-🟢/🟡 - [Green/Yellow](#---Green/Yellow)
+🟢/🟡 - [Green/Yellow](#---greenyellow)
 
-🟢/🔵 - [Green/Blue](#---Green/Blue)
+🟢/🔵 - [Green/Blue](#---greenblue)
 
-🟢/🟣 - [Green/Purple](#---Green/Purple)
+🟢/🟣 - [Green/Purple](#---greenpurple)
 
-🟢/⚫ - [Green/Black](#---Green/Black)
+🟢/⚫ - [Green/Black](#---greenblack)
 
-🔵 - [Blue](#---Blue)
+🔵 - [Blue](#---blue)
 
-🔵/🟡 - [Blue/Yellow](#---Blue/Yellow)
+🔵/🟡 - [Blue/Yellow](#---blueyellow)
 
-🔵/🟣 - [Blue/Purple](#---Blue/Purple)
+🔵/🟣 - [Blue/Purple](#---bluepurple)
 
-🔵/⚫ - [Blue/Black](#---Blue/Black)
+🔵/⚫ - [Blue/Black](#---blueblack)
 
-🟣 - [Purple](#---Purple)
+🟣 - [Purple](#---purple)
 
-🟣/🟡 - [Purple/Yellow](#---Purple/Yellow)
+🟣/🟡 - [Purple/Yellow](#---purpleyellow)
 
-🟣/⚫ - [Purple/Black](#---Purple/Black)
+🟣/⚫ - [Purple/Black](#---purpleblack)
 
-⚫ - [Black](#---Black)
+⚫ - [Black](#---black)
 
-⚫/🟡 - [Black/Yellow](#---Black/Yellow)
+⚫/🟡 - [Black/Yellow](#---blackyellow)
 
-🌈 - [Rainbow](#---Rainbow)
+🌈 - [Rainbow](#---rainbow)
 
 ### 🔴 - Red
 #### [Portgas.D.Ace (OP03-001)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001.png)
