@@ -131,7 +131,11 @@ Used to register for official events.
 
 ### Stores
 
-[Geek'd](https://geekdorlando.com/about/)
+[Geek'd](https://geekdorlando.com/about/) 
+
+Store tournaments every Wednesday at 6:30 PM EST - [Bandai TCG+ Event Listings](https://www.bandai-tcg-plus.com/event?application_open_flg=0&country_code[]=US&favorite=0&game_title_id=4&limit=20&no_use_tcg_plus&offset=0&organizer_name=Geek'd&past_event_display_flg=0)
+
+Off-meta monthly on specific Saturdays at 6:00 PM EST - [Allowed Leaders](./off-meta/geekd.md)
 
 [TCG Player](https://www.tcgplayer.com/search/one-piece-card-game/product?productLineName=one-piece-card-game&page=1&view=grid)
 
