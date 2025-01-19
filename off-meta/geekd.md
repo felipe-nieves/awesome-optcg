@@ -1,10 +1,10 @@
-## Allowed Leaders
-
-These are the allowed leaders for off meta at Geek'd.
-
 ## Rules
 
 Printed proxies are allowed, but must be clear and readable for both you and your opponent.
+
+## Allowed Leaders
+
+These are the allowed leaders for off meta at Geek'd.
 
 ### 🔴 - Red
 #### [Portgas.D.Ace (OP03-001)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001.png)
