@@ -183,7 +183,8 @@ Your Character cards are played rested.
 ### 🔵/⚫ - Blue/Black
 #### [Rebecca (OP04-039)](https://en.onepiece-cardgame.com/images/cardlist/card/OP04-039.png)
 ```
-[DON!! x1] [When Attacking] If you have a total of 4 or less cards in your Life area and hand, draw 1 card. If you have a Character with a cost of 8 or more, you may add up to 1 card from the top of your deck to the top of your Life cards instead of drawing 1 card.
+This Leader cannot attack.
+[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): If you have 6 or less cards in your hand, look at 2 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, trash the rest.
 ```
 #### [Sakazuki (P-076)](https://en.onepiece-cardgame.com/images/cardlist/card/P-076.png)
 ```
