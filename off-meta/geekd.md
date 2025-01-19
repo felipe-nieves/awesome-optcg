@@ -6,6 +6,52 @@ Printed proxies are allowed, but must be clear and readable for both you and you
 
 These are the allowed leaders for off meta at Geek'd.
 
+## Table of Contents
+
+🔴 - [Red](#---Red)
+
+🔴/🟡 - [Red/Yellow](#---Red/Yellow)
+
+🔴/🟢 - [Red/Green](#---Red/Green)
+
+🔴/🔵 - [Red/Blue](#---Red/Blue)
+
+🔴/🟣 - [Red/Purple](#---Red/Purple)
+
+🔴/⚫ - [Red/Black](#---Red/Black)
+
+🟡 - [Yellow](#---Yellow)
+
+🟢 - [Green](#---Green)
+
+🟢/🟡 - [Green/Yellow](#---Green/Yellow)
+
+🟢/🔵 - [Green/Blue](#---Green/Blue)
+
+🟢/🟣 - [Green/Purple](#---Green/Purple)
+
+🟢/⚫ - [Green/Black](#---Green/Black)
+
+🔵 - [Blue](#---Blue)
+
+🔵/🟡 - [Blue/Yellow](#---Blue/Yellow)
+
+🔵/🟣 - [Blue/Purple](#---Blue/Purple)
+
+🔵/⚫ - [Blue/Black](#---Blue/Black)
+
+🟣 - [Purple](#---Purple)
+
+🟣/🟡 - [Purple/Yellow](#---Purple/Yellow)
+
+🟣/⚫ - [Purple/Black](#---Purple/Black)
+
+⚫ - [Black](#---Black)
+
+⚫/🟡 - [Black/Yellow](#---Black/Yellow)
+
+🌈 - [Rainbow](#---Rainbow)
+
 ### 🔴 - Red
 #### [Portgas.D.Ace (OP03-001)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001.png)
 ```
