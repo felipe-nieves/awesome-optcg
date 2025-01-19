@@ -242,7 +242,7 @@ This Leader cannot attack.
 [Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.
 ```
 ### 🌈 - Rainbow
-#### [Monkey.D.Luffy (P)]([https://en.onepiece-cardgame.com/images/cardlist/card/P.png](https://en.onepiece-cardgame.com/images/events/2024/sealed_battle_vol2/card_01.png))
+#### [Monkey.D.Luffy (P)](https://en.onepiece-cardgame.com/images/events/2024/sealed_battle_vol2/card_01.png)
 ```
 This Leader can only be used in designated events according to the rules.
 This Leader is treated as a card with all card names, types, and attributes according to the rules.
