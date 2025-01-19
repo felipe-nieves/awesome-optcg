@@ -71,7 +71,7 @@ This Leader cannot attack.
 [DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.
 ```
 ### 🟢 - Green
-#### Kozuki Oden (OP03-031)
+#### [Kozuki Oden (OP03-031)](https://en.onepiece-cardgame.com/images/cardlist/card/OP03-031.png)
 ```
 [Activate: Main] [Once Per Turn] You can trash 1 {Land of Wano} type card from your hand: Set up to 2 of your DON!! cards as active.
 ```
@@ -189,7 +189,7 @@ Your Character cards are played rested.
 ```
 [When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.
 ```
-#### Magellan (OP02-071)
+#### [Magellan (OP02-071)]((https://en.onepiece-cardgame.com/images/cardlist/card/OP02-071.png)
 ```
 [Your Turn] [Once Per Turn] When a DON!! card on the field is returned to your DON!! deck, this Leader gains +1000 power during this turn.
 ```
@@ -241,7 +241,7 @@ This Leader cannot attack.
 [Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.
 ```
 ### 🌈 - Rainbow
-#### [Monkey.D.Luffy (P)](https://en.onepiece-cardgame.com/images/cardlist/card/P.png)
+#### [Monkey.D.Luffy (P)]([https://en.onepiece-cardgame.com/images/cardlist/card/P.png](https://en.onepiece-cardgame.com/images/events/2024/sealed_battle_vol2/card_01.png))
 ```
 This Leader can only be used in designated events according to the rules.
 This Leader is treated as a card with all card names, types, and attributes according to the rules.
