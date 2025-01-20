@@ -65,7 +65,7 @@ Printed proxies are allowed, but must be clear and readable for both you and you
   <img src="https://en.onepiece-cardgame.com/images/events/2024/sealed_battle_vol2/card_01.png" height="100">
 </div>
 
-## Table of Contents
+### Table of Contents
 
 🔴 - [Red](#---red)
 
