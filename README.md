@@ -123,6 +123,8 @@ Used to register for official events.
 
 [Egman Events](https://egmanevents.com/one-piece) - Made by "The Egman", tracks decklists for most events and the ranked ladder in the [OPTCG Sim](#optcg-sim)
 
+[gumgum.gg](https://gumgum.gg/) - Market watch, tools, decklists, and much more.
+
 [onepiece.gg](https://onepiece.gg/decks/) - guides, deck lists, card information, and meta analyses
 
 [Limitless TCG](https://onepiece.limitlesstcg.com/decks) - database of decklists, tournament results, and player rankings
