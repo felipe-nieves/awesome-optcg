@@ -35,9 +35,7 @@ Bandai's official tutorial app to teach you the basic rules of the game.
 
 A simulator that lets you build decks and play online with others.
 
-[Discord](https://discord.gg/optcgcommunity)
-
-[Download Links](https://discord.com/channels/950260529946050610/1276457238805876777)
+[Download](https://optcgsim.com/)
 
 ### Bandai TCG+
 
@@ -133,33 +131,20 @@ Used to register for official events.
 
 ### Stores
 
-[Geek'd](https://geekdorlando.com/about/) 
-
-Store tournaments every Wednesday at 6:30 PM EST - [Bandai TCG+ Event Listings](https://www.bandai-tcg-plus.com/event?application_open_flg=0&country_code[]=US&favorite=0&game_title_id=4&limit=20&no_use_tcg_plus&offset=0&organizer_name=Geek'd&past_event_display_flg=0)
-
-Off-meta monthly on specific Saturdays at 6:00 PM EST - [Allowed Leaders](./off-meta/geekd.md)
-
-[TCG Player](https://www.tcgplayer.com/search/one-piece-card-game/product?productLineName=one-piece-card-game&page=1&view=grid)
-
-[PlayPath - Gaming Store Database](https://docs.google.com/spreadsheets/d/1m0s0KGaDOSBi5JbITbFI1hhSs5UmvvupUjqzWaQzzsc)
-
-[Cool Stuff Inc.](https://www.coolstuffinc.com/page/7042/)
-
-[Barnes and Noble](https://www.barnesandnoble.com/)
-
-[Hot Topic](https://www.hottopic.com/)
-
-[Walmart](https://walmart.com/)
-
-[Target](https://target.com/)
-
-[Five Below](https://www.fivebelow.com/)
-
-[GameStop](https://www.gamestop.com/)
-
-[Box Lunch](https://www.boxlunch.com/)
-
-[Walgreens](https://www.walgreens.com/)
+- [Geek'd](https://geekdorlando.com/about/) 
+  - Store tournaments every Wednesday at 6:30 PM EST - [Bandai TCG+ Event Listings](https://www.bandai-tcg-plus.com/event?application_open_flg=0&country_code[]=US&favorite=0&game_title_id=4&limit=20&no_use_tcg_plus&offset=0&organizer_name=Geek'd&past_event_display_flg=0)
+  - Off-meta monthly on specific Saturdays at 6:00 PM EST - [Allowed Leaders](./off-meta/geekd.md)
+- [TCG Player](https://www.tcgplayer.com/search/one-piece-card-game/product?productLineName=one-piece-card-game&page=1&view=grid)
+- [PlayPath - Gaming Store Database](https://docs.google.com/spreadsheets/d/1m0s0KGaDOSBi5JbITbFI1hhSs5UmvvupUjqzWaQzzsc)
+- [Cool Stuff Inc.](https://www.coolstuffinc.com/page/7042/)
+- [Barnes and Noble](https://www.barnesandnoble.com/)
+- [Hot Topic](https://www.hottopic.com/)
+- [Walmart](https://walmart.com/)
+- [Target](https://target.com/)
+- [Five Below](https://www.fivebelow.com/)
+- [GameStop](https://www.gamestop.com/)
+- [Box Lunch](https://www.boxlunch.com/)
+- [Walgreens](https://www.walgreens.com/)
 
 ### Card Pricing/Tracking
 
