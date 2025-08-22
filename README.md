@@ -7,6 +7,7 @@ Awesome list of One Piece Trading Card Game resources
 - [Rules](#rules)
 - [One Piece Card Game Teaching App](#one-piece-card-game-teaching-app)
 - [OPTCG Sim](#optcg-sim)
+- [Straw Table](#straw-table)
 - [Bandai TCG+](#bandai-tcg)
 - [Videos](#videos)
 - [Choosing a Deck](#choosing-a-deck)
@@ -36,6 +37,12 @@ Bandai's official tutorial app to teach you the basic rules of the game.
 A simulator that lets you build decks and play online with others.
 
 [Download](https://optcgsim.com/)
+
+### Straw Table
+
+A fan created website to play popular TCG/CCG card games against AI opponents
+
+[Link](https://www.strawtable.net/op)
 
 ### Bandai TCG+
 
